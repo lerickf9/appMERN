@@ -20,4 +20,5 @@ routes
   "scripts": {
     "start": "nodemon server.js" //nodemon no es necesrio en la version 22.. de node js
   }
+  6.- Para iniciar se colocar npm start
 
